@@ -56,6 +56,19 @@ module.exports = {
       name: 'Telegram',
       link: 'https://t.me/inkcrow7',
     },
+    {
+      name: '奇怪的网址？',
+      link: 'https://www.pixiv.net/',
+    }
+    ,
+    {
+      name: 'Twitter',
+      link: 'https://mobile.twitter.com/inkcrow7',
+    },
+    {
+      name: '奇怪的网址？',
+      link: 'https://www.pixiv.net/users/61307590',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
