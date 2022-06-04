@@ -57,11 +57,6 @@ module.exports = {
       link: 'https://t.me/inkcrow7',
     },
     {
-      name: '奇怪的网址？',
-      link: 'https://www.pixiv.net/',
-    }
-    ,
-    {
       name: 'Twitter',
       link: 'https://mobile.twitter.com/inkcrow7',
     },
